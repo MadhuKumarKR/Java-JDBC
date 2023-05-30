@@ -10,3 +10,7 @@
 5.Exceute the query
 6.Process the result
 7.Close the connection and statement
+
+Creating a simple database in MySQL and accessing the content of that database through Java JDBC.
+
+NOTE :- In 2a step you need to explicitely load the driver if you are using eclipse IDE by downloading the MySQL driver from mvnrepository ( https://mvnrepository.com/artifact/com.mysql/mysql-connector-j/8.0.33 ) and then adding the downloaded JAR file using Buil Path.
